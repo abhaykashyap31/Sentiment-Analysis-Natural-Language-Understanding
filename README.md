@@ -1,4 +1,4 @@
-**Sentiment Analysis Project (Assignment-IV, CSL7640)**
+**Sentiment Analysis Project**
 ---
 
 ## 📌 Overview
